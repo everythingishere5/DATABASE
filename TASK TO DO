@@ -1,0 +1,8 @@
+1.	Create a report showing last and first names of customers who placed the orders, the order Id, the date on which it placed, 
+and the order total, and the last and first names of the salesperson who helped place the order. Since each Customer can have multiple orders, 
+the report should be as shown below. Each customer name should be listed only once. Also show the total amount due for each customer as a subtotal in the form. 
+Report should be sorted by customer last name.
+
+Note: As the order total of each order is not available yet, create a query to generate the attribute first. 
+Hint: Use Report Wizard to create a report. Make sure the customer’s name appearing only once for all the orders he/she placed. 
+
